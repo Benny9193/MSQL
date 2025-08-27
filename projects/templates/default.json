@@ -1,0 +1,31 @@
+{
+  "environments": [
+    {
+      "name": "development",
+      "config": {
+        "priority": "low"
+      }
+    },
+    {
+      "name": "testing",
+      "config": {
+        "priority": "medium"
+      }
+    },
+    {
+      "name": "production",
+      "config": {
+        "priority": "high"
+      }
+    }
+  ],
+  "settings": {
+    "auto_backup": true,
+    "notification_level": "important",
+    "retention_days": 30,
+    "documentation_formats": [
+      "html",
+      "json"
+    ]
+  }
+}

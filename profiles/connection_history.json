@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-08-27T13:31:43.281803",
+    "server": "eds-sqlserver.eastus2.cloudapp.azure.com",
+    "database": "master",
+    "method": "credentials",
+    "username": "EDSAdmin",
+    "success": true,
+    "error_message": null
+  },
+  {
+    "timestamp": "2025-08-27T13:35:02.317395",
+    "server": "eds-sqlserver.eastus2.cloudapp.azure.com",
+    "database": "master",
+    "method": "credentials",
+    "username": "EDSAdmin",
+    "success": true,
+    "error_message": null
+  },
+  {
+    "timestamp": "2025-08-27T13:39:27.681646",
+    "server": "eds-sqlserver.eastus2.cloudapp.azure.com",
+    "database": "master",
+    "method": "credentials",
+    "username": "EDSAdmin",
+    "success": true,
+    "error_message": null
+  },
+  {
+    "timestamp": "2025-08-27T13:39:45.873997",
+    "server": "eds-sqlserver.eastus2.cloudapp.azure.com",
+    "database": "master",
+    "method": "credentials",
+    "username": "EDSAdmin",
+    "success": true,
+    "error_message": null
+  }
+]

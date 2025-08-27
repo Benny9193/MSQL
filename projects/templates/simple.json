@@ -1,0 +1,18 @@
+{
+  "environments": [
+    {
+      "name": "main",
+      "config": {
+        "priority": "medium"
+      }
+    }
+  ],
+  "settings": {
+    "auto_backup": false,
+    "notification_level": "errors",
+    "retention_days": 7,
+    "documentation_formats": [
+      "html"
+    ]
+  }
+}

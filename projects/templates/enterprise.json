@@ -1,0 +1,44 @@
+{
+  "environments": [
+    {
+      "name": "development",
+      "config": {
+        "priority": "low",
+        "backup_frequency": "daily"
+      }
+    },
+    {
+      "name": "testing",
+      "config": {
+        "priority": "medium",
+        "backup_frequency": "daily"
+      }
+    },
+    {
+      "name": "staging",
+      "config": {
+        "priority": "high",
+        "backup_frequency": "hourly"
+      }
+    },
+    {
+      "name": "production",
+      "config": {
+        "priority": "critical",
+        "backup_frequency": "hourly"
+      }
+    }
+  ],
+  "settings": {
+    "auto_backup": true,
+    "notification_level": "all",
+    "retention_days": 90,
+    "documentation_formats": [
+      "html",
+      "json",
+      "markdown"
+    ],
+    "compliance_reporting": true,
+    "change_tracking": true
+  }
+}

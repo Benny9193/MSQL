@@ -1,0 +1,21 @@
+{
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "",
+    "password": "",
+    "from_address": "",
+    "to_addresses": []
+  },
+  "webhooks": {
+    "enabled": false,
+    "urls": []
+  },
+  "monitoring": {
+    "enabled": true,
+    "interval_minutes": 30,
+    "change_threshold": 0.1
+  },
+  "jobs": []
+}
