@@ -1,0 +1,21 @@
+{
+  "database": {
+    "connection_method": "credentials",
+    "server": "your-server.database.windows.net",
+    "database": "your-database",
+    "driver": "ODBC Driver 17 for SQL Server",
+    "timeout": 30
+  },
+  "documentation": {
+    "output_directory": "output",
+    "generate_html": true,
+    "generate_markdown": true,
+    "generate_json": true,
+    "include_system_objects": false,
+    "include_row_counts": true
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "database_docs.log"
+  }
+}

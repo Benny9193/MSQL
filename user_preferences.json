@@ -1,0 +1,41 @@
+{
+  "appearance": {
+    "theme": "light",
+    "font_size": 9,
+    "font_family": "Inter",
+    "show_tooltips": true,
+    "animation_enabled": true,
+    "compact_mode": false
+  },
+  "interface": {
+    "sidebar_width": 280,
+    "sidebar_collapsed": false,
+    "toolbar_visible": true,
+    "status_bar_detailed": true,
+    "auto_refresh": true,
+    "remember_window_size": true
+  },
+  "workflow": {
+    "auto_save_interval": 300,
+    "recent_items_limit": 10,
+    "confirm_destructive_actions": true,
+    "smart_caching_enabled": true,
+    "background_operations": true
+  },
+  "keyboard": {
+    "enable_shortcuts": true,
+    "vim_mode": false,
+    "custom_shortcuts": {}
+  },
+  "data_display": {
+    "default_page_size": 50,
+    "show_row_numbers": true,
+    "highlight_changes": true,
+    "group_similar_items": true
+  },
+  "privacy": {
+    "remember_passwords": false,
+    "auto_clear_logs": true,
+    "telemetry_enabled": false
+  }
+}
